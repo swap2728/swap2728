@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Swapnil Adsul !!!  
 
-<!--
-**swap2728/swap2728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer | Competitive Programmer | Open Source Contributor**  
 
-Here are some ideas to get you started:
+### 🔥 About Me  
+- 💻 **Expert in:** React, Node.js, Flutter, C++  
+- 🏆 **Competitive Programming:** Codeforces (1716), LeetCode (2152), CodeChef (2027)  
+- 🏢 **Contributed to:** Internal projects at Gamers Tag , Astraeus   
+- 🌱 **Learning:** Advanced System Design & Java & Performance Optimization 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗 My Work & Contributions  
+🔹 Active contributor to **internal tools & closed-source projects**  
+🔹 Worked on **Flutter applications, full-stack applications , and OS-level threading**  
+
+### 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/swapnil-adsul-139515230) 
+
+---
+⭐ **"Making ideas come to life with code!"**  
